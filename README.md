@@ -1,5 +1,27 @@
 # 💫 About Me:
-About Me:<br>I’m Sunidhi, a driven B.Tech IT student passionate about blending creativity with technology. My interests span web development, animation, and the transformative potential of AI in healthcare. I thrive on building solutions that are not only technically sound but also inclusive, impactful, and visually engaging.<br><br>My Vision & Focus:<br>Crafting interactive websites with modern tools and frameworks. Experimenting with design and motion to bring digital ideas alive. Researching AI applications in healthcare to improve diagnostics and patient care.<br><br>
+
+Hey, I'm Sunidhi 👋
+
+I'm an IT student who enjoys turning ideas into real projects through code, creativity, and continuous learning. From building web applications and exploring Generative AI to participating in hackathons and contributing to open source, I love working on things that challenge me to learn and grow.
+
+Currently, I'm exploring Web Development, GenAI, and AI applications in healthcare while experimenting with new technologies and bringing ideas to life through hands-on projects and collaborative experiences.
+
+### What I'm Into
+
+* 🌐 Web Development
+* 🤖 Generative AI & AI
+* 💻 Open Source Contributions
+* 🏆 Hackathons & Innovation Challenges
+* 🎨 Design, Animation & Creative Tech
+* 🏥 Exploring AI in Healthcare
+
+### Currently
+
+* 🚀 Contributing to GSSoC'26
+* 🏆 Participating in Hackathons
+* 📚 Learning and building in public
+* ✨ Turning curiosity into projects, one commit at a time
+
 
 
 ## 🌐 Socials:
